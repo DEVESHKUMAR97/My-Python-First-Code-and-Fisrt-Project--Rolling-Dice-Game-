@@ -111,5 +111,7 @@ while True:
 
 print("\n\n   Okh Bye Bye! See you again.")
 
+input("\n\nEnter any key to exit...")
+
 # Created By : Devesh Kumar
 # If you like give it a thumbs up.
